@@ -16,6 +16,6 @@ This repository represents the official implementation of the paper titled "Towa
 </p>
 
 <div align='center'>
-  <br><img src="image/title_img-1.png" width=100%>
+  <br><img src="title_img-1.png" width=100%>
   <br>Comparative results of the current state-of-the-art model and our GeSCF on various unseen images.
 </div>
